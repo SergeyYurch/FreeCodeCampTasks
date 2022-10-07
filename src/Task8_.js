@@ -56,4 +56,19 @@ const product = 2.0 * 2.5;
 
 //Task19
 
-const myStr = "This is the start"+ "This is the end"; // Change this line
+// const myStr = "This is the start"+ "This is the end"; // Change this line
+
+
+//Task20
+
+// Only change code below this line
+const myName = "myName";
+const myStr = "My name is " + myName + " and I am well!";
+
+//
+
+// Setup
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
+lastNameLength = lastName.length;
