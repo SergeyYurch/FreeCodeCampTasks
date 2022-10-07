@@ -22,19 +22,19 @@ console.log(FCC, fact); // Change this line
 
 //Task 11
 
-const sum = 10 + 10;
+// const sum = 10 + 10;
 
 //Task 12
 
-const difference = 45 - 33;
+// const difference = 45 - 33;
 
 //Task13
 
-const product = 8 * 10;
+// const product = 8 * 10;
 
 //Task14
 
-const quotient = 66 / 33;
+// const quotient = 66 / 33;
 
 //Task15
 
@@ -50,3 +50,10 @@ myVar--;
 
 const ourDecimal = 5.7;
 let myDecimal = 5.7;
+
+//Task18
+const product = 2.0 * 2.5;
+
+//Task19
+
+const myStr = "This is the start"+ "This is the end"; // Change this line
