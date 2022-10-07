@@ -27,3 +27,16 @@ const sum = 10 + 10;
 //Task 12
 
 const difference = 45 - 33;
+
+//Task13
+
+const product = 8 * 10;
+
+//Task14
+
+const quotient = 66 / 33;
+
+//Task15
+
+let myVar = 87;
+myVar++;
