@@ -45,3 +45,8 @@ const quotient = 66 / 33;
 
 let myVar = 11;
 myVar--;
+
+//Task17
+
+const ourDecimal = 5.7;
+let myDecimal = 5.7;
