@@ -38,5 +38,10 @@ const quotient = 66 / 33;
 
 //Task15
 
-let myVar = 87;
-myVar++;
+// let myVar = 87;
+// myVar++;
+
+//Task16
+
+let myVar = 11;
+myVar--;
